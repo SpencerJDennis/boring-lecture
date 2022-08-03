@@ -1,12 +1,12 @@
-h2.intro {
+.intro2 {
   font-style: italic;
 }
 
-p.intro {
+.intro3 {
   color: rgb(230, 13, 13);
 }
 
-img.intro {
+.intro1 {
 font-family: sans-serif;
 color: blue;
 }
